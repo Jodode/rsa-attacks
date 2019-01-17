@@ -6,6 +6,7 @@
 
 #### Example for cycling encrypt attack
 1. How to use
-![img](https://i.imgur.com/a/v5QXITW)
+![how usage](https://user-images.githubusercontent.com/36824733/51342224-5daba700-1aa4-11e9-8128-2828b6382e89.png)
 2.Example
-![img](https://drive.google.com/open?id=1rVkYWDXDGx5YRhfejcus_LufMeq_KKnV)
+![exmple](https://user-images.githubusercontent.com/36824733/51342248-761bc180-1aa4-11e9-8f6b-8cb34399c534.png)
+
